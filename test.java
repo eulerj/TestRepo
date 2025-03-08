@@ -5,6 +5,8 @@ public class test{
     System.out.println("Test a new print line");
     System.out.println("New line to test if java will compile");
     System.out.println(i);
+    i = 2;
+    System.out.println(i);
   }
     
 }
